@@ -4,27 +4,9 @@ The Zomato Dataset Analysis project aims to explore restaurant data to extract i
 
 This project involves data cleaning, exploratory data analysis (EDA), visualization, and predictive modeling to uncover meaningful patterns in restaurant operations and customer preferences.
 
-Dataset:-
+Dataset File Name:- zomato.csv
 
-File Name: zomato.csv
-
-Contents:
-
-Restaurant Information: Name, location, and type of establishment.
-
-Cuisines: The type of cuisines served by the restaurant.
-
-Ratings & Reviews: Customer feedback in the form of ratings and reviews.
-
-Cost for Two: Estimated price for two people dining at the restaurant.
-
-City and Country Code: Geographical location details for global restaurant analysis.
-
-Online Delivery & Table Booking: Availability of online food delivery and reservation features.
-
-The dataset provides a comprehensive view of restaurant trends and consumer preferences, enabling data-driven decision-making in the food service industry.
-
-Results
+Results:-
 
 Trends in Restaurant Ratings & Pricing: Understanding how price affects customer reviews.
 
